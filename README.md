@@ -113,3 +113,7 @@
 <a href="https://github.com/mahelbir/ig-agent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=ig-agent&theme=onedark" />
 </a>  
+
+<a href="https://github.com/mahelbir/valorant-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=valorant-store&theme=onedark" />
+</a>  
