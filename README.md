@@ -6,6 +6,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Engineer;I'm+a+Backend+Developer" /></a>
 </p>
 
+<a href="https://mahmuthanelbir.com.tr/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>   
+
    <a href="https://www.linkedin.com/in/mahmuthan-elbir-238455232/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
@@ -32,19 +36,19 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
    <a href="#" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-262626?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 
    <a href="#" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </a>
 
-<a href="#" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-
    <a href="#" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+
+<a href="#" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
   
   <a href="#" target="_blank">
@@ -69,6 +73,10 @@
   
    <a href="#" target="_blank">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>
+  
+   <a href="#" target="_blank">
+    <img alt="Qt" src="https://img.shields.io/badge/Qt-3FC74F?style=for-the-badge&logo=qt&logoColor=white">
   </a>
   
    <a href="#" target="_blank">
