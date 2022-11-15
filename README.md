@@ -30,7 +30,7 @@
 - 👋 Hi, I’m Mahmuthan
 - 💼 I'm a backend developer and sometimes full-stack developer
 - 💬 Talk to me about anything, I love knowledge and learning new things
-- 📫 How to reach me: me@mahmuthanelbir.com.tr
+- 📫 How to reach me: &#x6d;&#x65;&#x40;&#x6d;&#x61;&#x68;&#x6d;&#x75;&#x74;&#x68;&#x61;&#x6e;&#x65;&#x6c;&#x62;&#x69;&#x72;&#x2e;&#x63;&#x6f;&#x6d;&#x2e;&#x74;&#x72;
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -80,7 +80,15 @@
   </a>
   
    <a href="#" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-cf0a2c?style=for-the-badge&logo=Selenium&logoColor=white">
+  </a>
+	
+  <a href="#" target="_blank">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-416d1b?style=for-the-badge&logo=spring&logoColor=white">
+  </a>
+	
+  <a href="#" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express-1c1c1c?style=for-the-badge&logo=express&logoColor=white">
   </a>
   
    <a href="#" target="_blank">
@@ -92,7 +100,7 @@
   </a>
 
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -118,10 +126,10 @@
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/mahelbir/mclient">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=mclient&theme=onedark" />
-</a>  
 
-<a href="https://github.com/mahelbir/valorant-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=valorant-store&theme=onedark" />
+<a href="https://github.com/mahelbir/etempmail">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=etempmail&theme=dark" />
+</a>  
+<a href="https://github.com/mahelbir/mclient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=mclient&theme=dark" />
 </a>  
