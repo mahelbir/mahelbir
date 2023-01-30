@@ -32,7 +32,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
    <a href="#" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-262626?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-262626?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 
    <a href="#" target="_blank">
@@ -42,7 +42,11 @@
    <a href="#" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
-
+	
+   <a href="#" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23671473.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
+	
 <a href="#" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
