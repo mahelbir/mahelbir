@@ -84,10 +84,6 @@
   </a>
 	
   <a href="#" target="_blank">
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-416d1b?style=for-the-badge&logo=spring&logoColor=white">
-  </a>
-	
-  <a href="#" target="_blank">
     <img alt="Express" src="https://img.shields.io/badge/Express-1c1c1c?style=for-the-badge&logo=express&logoColor=white">
   </a>
   
@@ -110,6 +106,6 @@
 <a href="https://github.com/mahelbir/etempmail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=etempmail&theme=dark" />
 </a>  
-<a href="https://github.com/mahelbir/mclient">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=mclient&theme=dark" />
+<a href="https://github.com/mahelbir/cron-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahelbir&repo=cron-manager&theme=dark" />
 </a>  
